@@ -1,11 +1,11 @@
 # Terraluma Packaging 📦
-> [!todo] 🚁 **Drones**
+>  🚁 **Drones**
 - [ ] M350 dual mount + controller
 - [ ] M350 single mount + controller
 - [ ] M3M 1 + controller
 - [ ] M3M 2 + controller
 
-> [!todo] 🔋 **Batteries charged**
+> 🔋 **Batteries charged**
 - [ ] M350 Battery case (1 to 3)
 - [ ] M350 controllers
 - [ ] M3M batteries
