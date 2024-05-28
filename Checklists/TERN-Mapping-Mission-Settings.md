@@ -25,7 +25,7 @@
 	- **Dewarping:** Disabled
 
 ## P1 settings 📸
->[!danger] SD empty or format required?
+>[!WARNING] SD empty or format required?
 - **Mode:** M
 - **ISO:** Auto
 - **Shutter speed:** 1/1000 s
@@ -36,9 +36,9 @@
 - **Img format:** .JPG
 
 ## MicaSense settings 📸
->[!faq] 192.168.10.254
+>[!TIP] 192.168.10.254
 
->[!danger] SDs empty or require formatting?
+>[!WARNING] SDs empty or require formatting?
 
 - Check DLS & GPS status
 - **Capture-Mode:** Timer
@@ -55,4 +55,4 @@
 	- **Camera -> Zenmuse L1 -> LiDAR mapping**
 	- **IMU calibration:** Enable
 
->[!danger] SD empty or format required?
+>[!WARNING] SD empty or format required?
