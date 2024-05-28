@@ -4,11 +4,11 @@ General protocols and checklists for drone imagery and point cloud collection us
 
 ## Planning
 
-- Packaging Checklist 📦
+- [Packaging Checklist 📦](Checklists/Terraluma-Packaging-Checklist.md)
 
 ## Pre-flight
 
-- Mapping Mission Settings
+- [Mapping Mission Settings 🚁](Checklists/TERN-Mapping-Mission-Settings.md)
 - Metadata Template
 
 ## Flight
