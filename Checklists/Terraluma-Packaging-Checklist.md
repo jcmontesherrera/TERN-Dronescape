@@ -19,8 +19,7 @@
 - [ ] L2/L1 + MicroSD
 - [ ] M3Ms MicroSDs
 
->[!TIP]
-> Tools 🔨
+> 🔨 Tools
 
 - [ ] RTK Base station + tripod
 - [ ] Reflectance panels
