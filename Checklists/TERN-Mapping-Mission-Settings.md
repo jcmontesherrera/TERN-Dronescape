@@ -36,9 +36,11 @@
 - **Img format:** .JPG
 
 ## MicaSense settings 📸
-> [!TIP] 192.168.10.254
+> [!TIP] 
+> 192.168.10.254
 
->[!WARNING] SDs empty or require formatting?
+> [!WARNING]
+> SDs empty or require formatting?
 
 - Check DLS & GPS status
 - **Capture-Mode:** Timer
@@ -55,4 +57,5 @@
 	- **Camera -> Zenmuse L1 -> LiDAR mapping**
 	- **IMU calibration:** Enable
 
->[!WARNING] SD empty or format required?
+> [!WARNING] 
+> SD empty or format required?
