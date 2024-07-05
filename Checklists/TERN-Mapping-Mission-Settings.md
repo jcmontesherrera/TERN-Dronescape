@@ -27,6 +27,7 @@
 	- **Dewarping:** Disabled
 
 ## P1 settings 📸
+
 > [!CAUTION] SD empty or format required?
 - **Mode:** M
 - **ISO:** Auto
