@@ -42,8 +42,7 @@
 - **Img format:** .JPG
 
 ## MicaSense settings 📸
-> [!NOTE]
-> 192.168.10.254
+> [!NOTE] 192.168.10.254
 
 > [!WARNING]
 > SDs empty or require formatting?
