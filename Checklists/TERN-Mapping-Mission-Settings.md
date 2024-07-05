@@ -27,7 +27,7 @@
 	- **Dewarping:** Disabled
 
 ## P1 settings 📸
-> [!WARNING] SD empty or format required?
+> [!CAUTION] SD empty or format required?
 - **Mode:** M
 - **ISO:** Auto
 - **Shutter speed:** 1/1000 s
