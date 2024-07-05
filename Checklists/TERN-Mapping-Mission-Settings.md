@@ -42,9 +42,11 @@
 - **Img format:** .JPG
 
 ## MicaSense settings 📸
-> [!NOTE] 192.168.10.254
+> [!NOTE]
+> 192.168.10.254
 
-> [!WARNING] SDs empty or require formatting?
+> [!WARNING]
+> SDs empty or require formatting?
 
 - Check DLS & GPS status
 - **Capture-Mode:** Timer
@@ -56,7 +58,8 @@
 - Acquire images of Calibration Panel
 
 ## LiDAR mission settings 🗺️
-> [!WARNING] SD empty or format required?
+> [!WARNING]
+> SD empty or format required?
 
 - *Basic settings*
 	- **Name:** YYYYMMDD_PlotName_Sensor
