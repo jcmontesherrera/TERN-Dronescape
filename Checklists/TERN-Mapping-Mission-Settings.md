@@ -45,7 +45,7 @@
 > [!TIP]
 > 192.168.10.254
 
-> [!WARNING]
+> [!CAUTION]
 > SDs empty or require formatting?
 
 - Check DLS & GPS status
@@ -58,7 +58,7 @@
 - Acquire images of Calibration Panel
 
 ## LiDAR mission settings 🗺️
-> [!WARNING]
+> [!CAUTION]
 > SD empty or format required?
 
 - *Basic settings*
