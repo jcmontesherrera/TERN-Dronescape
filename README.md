@@ -1,4 +1,4 @@
-# TerraLuma Lab Field Protocols and Checklists
+# DroneScape Field Protocols and Checklists
 
 General protocols and checklists for drone imagery and point cloud collection used for projects Naturescan and Dronescape.
 
