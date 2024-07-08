@@ -16,3 +16,8 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 ## Post-Flight
 - RGB and Multispec Processing Protocol
 - LiDAR Processing Protocol
+
+---
+### Contact
+Juan C. Montes-Herrera
+juancarlos.montesherrera@utas.edu.au
