@@ -10,6 +10,11 @@
 |           |       |
 
 ---
+## Sun Angle
+- Retrieve from GPS device or smartphone app.
+- I use Photopills ($)
+
+---
 
 Table 1. Sky codes for qualitative classification of cloud-related ambient light conditions [^Assman2018]. **White Balance** settings should be set to Sunny (0 - 6) or Cloudy (7 - 8).
 
