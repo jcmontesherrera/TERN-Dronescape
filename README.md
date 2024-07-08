@@ -1,6 +1,6 @@
-# TerraLuma Lab Field Protocols and Checklists
+# DroneScape Field Protocols and Checklists
 
-General protocols and checklists for drone imagery and point cloud collection used for projects Naturescan and Dronescape.
+Protocols and checklists for drone imagery and point cloud collection utilized in the Dronescape project, conducted by the Terrestrial Ecosystem Research Network (TERN) at the University of Adelaide, and the Terraluma Lab at the University of Tasmania.
 
 ## Planning
 
@@ -16,3 +16,8 @@ General protocols and checklists for drone imagery and point cloud collection us
 ## Post-Flight
 - RGB and Multispec Processing Protocol
 - LiDAR Processing Protocol
+
+---
+#### Contact
+Juan C. Montes-Herrera
+juancarlos.montesherrera@utas.edu.au
