@@ -1,8 +1,8 @@
-# DroneScape Field Protocols and Checklists
+# Dronescape Field Protocols and Checklists 🚁🏞️
 
 Protocols and checklists for drone imagery and point cloud collection utilized in the Dronescape and Naturescan projects, conducted by the Terrestrial Ecosystem Research Network (TERN) at the University of Adelaide, and the Terraluma Lab at the University of Tasmania.
 
-## Planning
+## Planning 
 
 - Forms, Permits and Risk Assessments
 - [Packaging Checklist 📦](Files/TERN-Packing-Checklist.md)
