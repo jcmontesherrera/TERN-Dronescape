@@ -5,12 +5,12 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 ## Planning
 
 - Forms, Permits and Risk Assessments
-- [Packaging Checklist 📦](Files\TERN Packing Checklist.md)
+- [Packaging Checklist 📦](Files\TERN-Packing-Checklist.md)
 
 ## Pre-flight
 
-- [Mapping Mission Settings 🚁](Files\TERN Mapping Mission Settings.md)
-- [Metadata Template 📝](Files\TERN Mapping Mission Settings.md)
+- [Mapping Mission Settings 🚁](Files\TERN-Mapping-Mission-Settings.md)
+- [Metadata Template 📝](Files\TERN-Mapping-Mission-Settings.md)
 
 ## Flight
 
