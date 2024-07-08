@@ -12,7 +12,7 @@
 ---
 ## Sun Angle
 - Retrieve from GPS device or smartphone app.
-- I use Photopills ($)
+- I use [Photopills](https://www.photopills.com/) ($)
 
 ---
 
