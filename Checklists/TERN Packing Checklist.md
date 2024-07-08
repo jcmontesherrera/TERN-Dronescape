@@ -1,4 +1,4 @@
-# Terraluma Packaging 📦
+# TERN Drone Packing 📦
 >  🚁 **Drones**
 - [ ] M350 dual mount + controller
 - [ ] M350 single mount + controller

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Checklists/TERN-Mapping-Mission-Settings.md",
-                "mode": "preview",
+                "file": "Checklists/TERN Packing Checklist.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Checklists/TERN-Mapping-Mission-Settings.md",
+                "file": "Checklists/TERN Packing Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Checklists/TERN-Mapping-Mission-Settings.md",
+                "file": "Checklists/TERN Packing Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Checklists/TERN-Mapping-Mission-Settings.md"
+                "file": "Checklists/TERN Packing Checklist.md"
               }
             }
           }
@@ -147,5 +147,13 @@
     }
   },
   "active": "c0845a9f7b4ee026",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "PDFs/TERN Packing Checklist.pdf",
+    "Checklists/TERN Mapping Mission Settings.md",
+    "Checklists/TERN Packing Checklist.md",
+    "PDFs/TERN Mapping Mission Settings.pdf",
+    "PDFs/TERN-Mapping-Mission-Settings.pdf",
+    "PDFs",
+    "New folder"
+  ]
 }
