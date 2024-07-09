@@ -29,7 +29,15 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 - LiDAR Processing Protocol
     - DJI Terra
     - R script by Poornima et al., 2022
+- Data Upload to TERN Data Discovery Portal
+    - Rclone commands and steps
 
 ---
 #### Contact
 juancarlos.montesherrera@utas.edu.au
+![TerraLuma](Figures-Logos\Terraluma-logo.png|100)
+![TERN](Figures-Logos\TERN-logo.png|100)
+![UTAS](Figures-Logos\UTAS-logo.png|100)
+![UniAde](Figures-Logos\UniAdelaide-Logo.jpg|100)
+
+
