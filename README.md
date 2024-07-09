@@ -2,23 +2,26 @@
 
 Protocols and checklists for drone imagery and point cloud collection utilized in the Dronescape and Naturescan projects, conducted by the Terrestrial Ecosystem Research Network (TERN) at the University of Adelaide, and the Terraluma Lab at the University of Tasmania.
 
-## Planning
+## 1. Planning
 
 - Forms, Permits and Risk Assessments
 - [Exploratory *ausplotsR* script 🔎](Files/ausplotsR_exploratory.R)
 - [Field Gear & Hardware Checklist 🛠️🚁📦](Files/TERN-FieldGear-Checklist.md)
 - Charge batteries, cache satellite image in controller.
 
-## Pre-flight
+## 2. Pre-flight
 
 - [Mapping Mission Settings 🚁](Files/TERN-Mapping-Mission-Settings.md)
 
-## Flight
+## 3. Flight
 
 - [Metadata Template 📝](Files/TERN-Metadata-Drone-Flight.md)
 
-## Post-Flight
+## 4. Post-Flight
+- Next Flight or Day preparations
 - Data Backup Protocol
+
+## 5. Data Processing
 - RGB and Multispec Processing Protocol
     - Metashape Python script by Poornima et al., 2022
         - RGB and Multispec images are aligned separately, RTK positioning + offset
@@ -29,8 +32,18 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 - LiDAR Processing Protocol
     - DJI Terra
     - R script by Poornima et al., 2022
+- Cloud Optimized GeoTiffs and Point Clouds
+    - Script by Poornima et al., 2022
+- SpatioTemporal Asset Catalog (STAC) creation
 - Data Upload to TERN Data Discovery Portal
     - Rclone commands and steps
+
+## 6. Access, Training and Applications
+- TERN Data Discovery Portal - How to Use
+- GeoNadir
+- GIS and Image analysis
+- Case studies
+
 
 ---
 #### Contact
