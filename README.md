@@ -18,6 +18,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 - [Metadata Template 📝](Files/TERN-Metadata-Drone-Flight.md)
 
 ## Post-Flight
+- Data Backup Protocol
 - RGB and Multispec Processing Protocol
     - Metashape Python script by Poornima et al., 2022
         - RGB and Multispec images are aligned separately, RTK positioning + offset
