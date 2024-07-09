@@ -6,7 +6,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 
 - Forms, Permits and Risk Assessments
 - [Packaging Checklist 📦](Files/TERN-Packing-Checklist.md)
-- [Exploratory R script 🔎](Files/ausplotsR_exploratory.R)
+- [Exploratory *ausplotsR* script 🔎](Files/ausplotsR_exploratory.R)
 
 ## Pre-flight
 
