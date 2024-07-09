@@ -37,7 +37,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 juancarlos.montesherrera@utas.edu.au
 ![TerraLuma]("Figures-Logos/Terraluma-logo.png"|100)
 ![TERN](Figures-Logos/TERN-logo.png|100)
-![UTAS](Figures-Logos\UTAS-logo.png|100)
-![UniAde](Figures-Logos\UniAdelaide-Logo.jpg|100)
+![UTAS](Figures-Logos/UTAS-logo.png)
+![UniAde](Figures-Logos\UniAdelaide-Logo.jpg)
 
 
