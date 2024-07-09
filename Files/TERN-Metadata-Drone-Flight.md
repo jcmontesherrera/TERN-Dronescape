@@ -6,8 +6,9 @@
 | --------- | ----- |
 | Sun Angle |       |
 | Sky Code  |       |
-|           |       |
-|           |       |
+| Flight Start |       |
+| Flight End          |       |
+|            |     |
 
 ## Sun Angle
 - Retrieve from GPS device or smartphone app.
