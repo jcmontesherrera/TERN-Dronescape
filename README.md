@@ -22,10 +22,10 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 - RGB and Multispec Processing Protocol
     - Metashape Python script by Poornima et al., 2022
         - RGB and Multispec images are aligned separately, RTK positioning + offset
-        - Output: RGB orthomosaic, Multispec 10-band orthomosaic
+        - Output: RGB orthomosaic, Multispec 10-band reflectance orthomosaic
     - Metashape GUI workflow by JCMH, Robbins, Dell, Turner and Lucieer
         - RGB and Multispec images are aligned together, RTK positioning
-        - Output: RGB orthomosaic, Multispec 10-band orthomosaic
+        - Output: RGB orthomosaic, Multispec 10-band reflectance orthomosaic
 - LiDAR Processing Protocol
     - DJI Terra
     - R script by Poornima et al., 2022
