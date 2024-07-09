@@ -5,7 +5,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 ## Planning
 
 - Forms, Permits and Risk Assessments
-- [Field Gear & Hardware Checklist 🛠️🚁](Files/TERN-FieldGear-Checklist.md)
+- [Field Gear & Hardware Checklist 🛠️🚁📦](Files/TERN-FieldGear-Checklist.md)
 - [Exploratory *ausplotsR* script 🔎](Files/ausplotsR_exploratory.R)
 - Charge batteries, cache satellite image in controller.
 

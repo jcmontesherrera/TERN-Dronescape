@@ -1,4 +1,4 @@
-# TERN Drone Packing 📦
+# Field Gear Checklist 🛠️📦
 >  🚁 **Drones**
 - [ ] M350 dual mount + controller
 - [ ] M350 single mount + controller
