@@ -23,7 +23,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 
 ## 5. Data Processing
 - RGB and Multispec Processing Protocol
-    1. Metashape Python script by Poornima et al., 2022
+    1. TERN GitHub [Metashape Python script by Poornima et al., 2022](https://github.com/ternaustralia/drone_metashape)
         - RGB and Multispec images are aligned separately, RTK positioning + offset
     2. Metashape GUI workflow by JCMH, Robbins, Dell, Turner and Lucieer
         - RGB and Multispec images are aligned together, RTK positioning
