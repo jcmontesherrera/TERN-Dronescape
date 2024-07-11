@@ -18,7 +18,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 - [Metadata Template 📝](Files/TERN-Metadata-Drone-Flight.md)
 
 ## 4. Post-Flight
-- Next Flight or Day preparations
+- Prepare for next flight or day
 - Data Backup Protocol
 
 ## 5. Data Processing
