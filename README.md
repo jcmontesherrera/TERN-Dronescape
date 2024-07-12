@@ -32,7 +32,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
         - RGB and Multispec images are aligned together, RTK positioning
     - The three approaches output an RGB orthomosaic and Multispec 10-band reflectance orthomosaic
 - LiDAR Processing Protocol
-    - DJI Terra
+    - [DJI Terra protocol](https://www.tern.org.au/data-collection-protocols/)
     - [R script by Poornima et al., 2022](https://github.com/ternaustralia/drone_lidar)
 - Cloud Optimized GeoTiffs and Point Clouds
     - [Script by Poornima et al., 2022](https://github.com/ternaustralia/drone_imagery)
@@ -45,7 +45,6 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 - GeoNadir
 - GIS and Image analysis
 - Case studies
-
 
 ---
 #### Contact
