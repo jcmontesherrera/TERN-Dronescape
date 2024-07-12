@@ -5,6 +5,10 @@ Note: PREDICTOR and ZLEVEL values not tested exhaustively.
 But PREDICTOR is set differently for float. The string "micasense" in the dir structure is used to identify multispectral tiff.
 https://kokoalberti.com/articles/geotiff-compression-optimization-guide/
 
+@author Poornima Sivanandam
+
+@forked by Juan C. Montes-Herrera
+
 """
 
 import os

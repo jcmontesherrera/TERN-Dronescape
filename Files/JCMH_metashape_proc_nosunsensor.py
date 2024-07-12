@@ -4,6 +4,8 @@ Created August 2021
 
 @author: Poornima Sivanandam
 
+@modified by Juan C. Montes-Herrera to skip dense point cloud, use tie points for model creation, and dont use sun sensor.
+
 Script to process DJI Zenmuse P1 (gimbal 1) and MicaSense RedEdge-MX/Dual (gimbal 2) images captured simultaneously
 using the Matrice 300 RTK drone system.
 
