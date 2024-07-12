@@ -11,7 +11,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 
 ## 2. Pre-flight
 - [TERN Drone Imagery and LiDAR Data Collection Protocol](https://www.tern.org.au/data-collection-protocols/)
-- [Mapping Mission Settings 🚁](Files/TERN-Mapping-Mission-Settings.md)
+- [Field Cheatsheet Mapping Mission Settings 🚁](Files/TERN-Mapping-Mission-Settings.md)
 
 ## 3. Flight
 
