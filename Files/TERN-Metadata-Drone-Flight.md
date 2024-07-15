@@ -4,15 +4,8 @@
 
 | Type      | Value |
 | --------- | ----- |
-| Sun Angle |       |
 | Sky Code  |       |
-| Flight Start |       |
-| Flight End          |       |
-|            |     |
-
-## Sun Angle
-- Retrieve from GPS device or smartphone app.
-- I use [Photopills](https://www.photopills.com/) ($)
+|           |       |
 
 
 ## Sky Code
@@ -31,6 +24,11 @@ Table 1. Sky codes for qualitative classification of cloud-related ambient light
 | **7**        | Complete cumulus cover      (WB Cloudy)             |
 | **8**        | Stratus, sun obscured (WB Cloudy)                   |
 | 9        | Drizzle                                  |
+
+## Sun Angle
+- Can be calculated based on location and time.
+- Retrieve from GPS device or smartphone app.
+- I use [Photopills](https://www.photopills.com/) ($)
 
 
 [^Assman2018]: Assmann, J. et al. (2018). Vegetation monitoring using multispectral sensors: Best practices and lessons learned from high latitudes. _Journal of Unmanned Vehicle Systems_, 6(3), 221-235. [https://doi.org/10.1139/juvs-2018-0018](https://doi.org/10.1139/juvs-2018-0018)
