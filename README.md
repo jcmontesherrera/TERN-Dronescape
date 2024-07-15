@@ -48,4 +48,4 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 
 ---
 #### Contact
-juancarlos.montesherrera@utas.edu.au<
+juancarlos.montesherrera@utas.edu.au
