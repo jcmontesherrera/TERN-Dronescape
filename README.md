@@ -7,6 +7,7 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 - Forms, Permits and Risk Assessments
 - [Exploratory *ausplotsR* script 🔎](Files/ausplotsR_exploratory.R)
 - [Field Gear & Hardware Checklist 🛠️🚁📦](Files/TERN-FieldGear-Checklist.md)
+- Create KML polygon in Google Earth and copy in Controller
 - Charge batteries, cache satellite image in controller.
 
 ## 2. Pre-flight
@@ -19,7 +20,14 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 
 ## 4. Post-Flight
 - Prepare for next flight or day
-- Data Backup Protocol
+- Data Backup and Folder Structure
+-   YYYYMMDD/
+    - P1/
+        - Level0_raw
+        - Level1_proc
+    - M3M
+    - L2
+    - Micasense-P
 
 ## 5. Data Processing
 - [TERN RGB and Multispec Processing Protocol](https://www.tern.org.au/data-collection-protocols/)
@@ -48,4 +56,4 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 
 ---
 #### Contact
-juancarlos.montesherrera@utas.edu.au<
+juancarlos.montesherrera@utas.edu.au
