@@ -1,0 +1,3 @@
+[submodule "drone_metashape"]
+	path = drone_metashape
+	url = https://github.com/ternaustralia/drone_metashape.git
