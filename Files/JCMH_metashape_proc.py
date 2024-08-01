@@ -94,8 +94,8 @@ P1_GIMBAL1_OFFSET = (0.087, 0.0, 0.0)
 offset_dict = defaultdict(dict)
 offset_dict['RedEdge-M']['Red'] = (-0.097, -0.03, -0.06)
 offset_dict['RedEdge-M']['Dual'] = (-0.097, 0.02, -0.08)
-offset_dict['RedEdge-P']['Red'] = (0,0,0)
-offset_dict['RedEdge-P']['Dual'] = (0,0,0)
+offset_dict['RedEdge-P']['Red'] = (-0.097,-0.03,-0.06)
+offset_dict['RedEdge-P']['Dual'] = (-0.097, 0.02, -0.08)
 
 ###############################################################################
 # Function definitions
