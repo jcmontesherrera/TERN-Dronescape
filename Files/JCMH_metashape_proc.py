@@ -4,10 +4,6 @@ Created August 2021
 
 @author: Poornima Sivanandam
 
-@modified by Juan C. Montes-Herrera to skip dense point cloud and use tie points for model creation.
-
-## Test test
-
 Script to process DJI Zenmuse P1 (gimbal 1) and MicaSense RedEdge-MX/Dual (gimbal 2) images captured simultaneously
 using the Matrice 300 RTK drone system.
 
@@ -342,6 +338,9 @@ def proc_rgb():
         compression.tiff_big = True
         compression.tiff_tiled = True
         compression.tiff_overviews = True
+
+        #Print ortho_file path
+        print(ortho_file)
 
         chunk.exportRaster(path=str(ortho_file), resolution_x=res_xy, resolution_y=res_xy,
                            image_format=Metashape.ImageFormatTIFF,
