@@ -21,13 +21,22 @@ Protocols and checklists for drone imagery and point cloud collection utilized i
 ## 4. Post-Flight
 - Prepare for next flight or day
 - Data Backup and Folder Structure
--   YYYYMMDD/
-    - P1/
-        - Level0_raw
-        - Level1_proc
-    - M3M
-    - L2
-    - Micasense-P
+	- PlotName/
+		- YYYYMMDD/
+			- imagery/
+				- rgb/
+					- level0_raw/
+						- raw images
+					- level1_proc
+						- orthomosaic
+				- multispec/
+					- level0_raw
+					- level1_proc
+			- lidar/
+				- level0_raw/
+				- level1_proc
+			- drtk/
+				- rtk log files
 
 ## 5. Data Processing
 - [TERN RGB and Multispec Processing Protocol](https://www.tern.org.au/data-collection-protocols/)
