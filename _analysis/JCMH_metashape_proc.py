@@ -7,6 +7,8 @@ Created August 2021
 Script to process DJI Zenmuse P1 (gimbal 1) and MicaSense RedEdge-MX/Dual (gimbal 2) images captured simultaneously
 using the Matrice 300 RTK drone system.
 
+@modified: JCMH - Tie points for model and MicaSense RedEdge-P/Dual Gimbal 2 Offset
+
 Assumption that folder structure is as per the TERN protocols:
 Data |	Path | Example
 Raw data |	<plot>/YYYYMMDD/imagery/<sensor>/level0_raw/ |	SASMDD0001/20220519/imagery/rgb/level0_raw
